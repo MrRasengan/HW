@@ -1,0 +1,5 @@
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.csproj.AssemblyReference.cache
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.AssemblyInfoInputs.cache
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.AssemblyInfo.cs
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.csproj.CoreCompileInputs.cache
