@@ -9,9 +9,11 @@ int numberA = int.Parse(Console.ReadLine());
 int numberB = int.Parse(Console.ReadLine());
 if(numberA > numberB)
 {
-    Console.WriteLine("большее число " + numberA , "меньшее число " + numberB);
+    Console.WriteLine("большее число " + numberA );
+    Console.WriteLine("меньшее число " + numberB );
 }
 else
 {
-    Console.WriteLine("большее число " + numberB , "меньшее число " + numberA);
+    Console.WriteLine("большее число " + numberB );
+    Console.WriteLine("меньшее число " + numberA );
 }
