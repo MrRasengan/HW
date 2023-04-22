@@ -3,3 +3,13 @@ C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.GeneratedMSBuildEditorConfig.
 C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.AssemblyInfoInputs.cache
 C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.AssemblyInfo.cs
 C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.csproj.CoreCompileInputs.cache
+C:\GIT\HW200423\Leason04\bin\Debug\net6.0\Leason04.exe
+C:\GIT\HW200423\Leason04\bin\Debug\net6.0\Leason04.deps.json
+C:\GIT\HW200423\Leason04\bin\Debug\net6.0\Leason04.runtimeconfig.json
+C:\GIT\HW200423\Leason04\bin\Debug\net6.0\Leason04.dll
+C:\GIT\HW200423\Leason04\bin\Debug\net6.0\Leason04.pdb
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.dll
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\refint\Leason04.dll
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.pdb
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\Leason04.genruntimeconfig.cache
+C:\GIT\HW200423\Leason04\obj\Debug\net6.0\ref\Leason04.dll
